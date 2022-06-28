@@ -22,11 +22,13 @@ We created two different models. The first was our baseline convolutional neural
 Here is a visual representitive of what the VGG-16 structure looks like: 
 ![image](https://user-images.githubusercontent.com/47399887/176247533-f3f727cb-de7c-4bd6-bb4e-657a3a70be7c.png)
 
-The code for the pre-processing, downloading images, and model creation can be found here: https://github.com/msaifyan/album_art_genre_classification/blob/master/Album_Art_Genre_Classification.ipynb
+The code for the pre-processing, downloading images, and model creation can be found here: 
+https://github.com/msaifyan/album_art_genre_classification/blob/master/Album_Art_Genre_Classification.ipynb
 
 
 ### Results
 As stated above we only got a validation accuracy of 24%. The model did pretty well at predicting the genre for albums that belonged to the most popular genre (Dance & Electronic). We had a very imbalanced dataset. We had too many observations with the Dance & Electronic label, for this to perform better we would need to balance our dataset. We also did not have the computing power to effectively train the VGG. Here is an example of the model correctly predicting Dance & Electronic: 
+
 <img width="341" alt="Screen Shot 2022-06-28 at 10 43 43 AM" src="https://user-images.githubusercontent.com/47399887/176248323-9a6dfeef-217b-4906-bfd2-954e22bd7573.png">
 
 
