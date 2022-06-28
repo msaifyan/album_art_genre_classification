@@ -9,7 +9,7 @@ We want to create a Convolutional Neural Network to predict which genre of music
 ## Data Used
 We used RGB Images from MuMu: MultiModal Music Dataset (2017). This data can be found in this repository under MuMu_dataset. Within this we used the single label genre dataset. This dataset can be found in the MuMu_dataset folder and is called MuMu_dataset_single-label.csv.
 
-[https://github.com/msaifyan/album_art_genre_classification/tree/master/MuMu_dataset](README.md)
+[https://github.com/msaifyan/album_art_genre_classification/tree/master/MuMu_dataset]
 
 ### Pre-Processing
 First, we needed to create a dataframe that correctly maps images and their file path to the appropriate genre label. We did this by joining the amazon_id from the MuMu single genre label dataset with the Amazon metadata dataset, which includes the url for album covers. We will then take all unique album covers and create a dataframe consisting of the unique album covers of the top 12 genres in the dataset.
