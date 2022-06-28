@@ -34,5 +34,7 @@ As stated above, we only got a validation accuracy of 24%. The model did pretty 
 ### Future Work
 To continue this project, we would want to train the VGG for more epochs, as well as gather more data to balance our dataset. I think doing both of these things as next steps would make the model perform significantly better. 
 
+You can find the presentation for this project here: https://github.com/msaifyan/album_art_genre_classification/blob/master/MSDS631%20Deep%20Learning%20Final%20Project%20Presentation.pdf 
+
 
 
