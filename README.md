@@ -31,5 +31,8 @@ As stated above, we only got a validation accuracy of 24%. The model did pretty 
 
 <img width="341" alt="Screen Shot 2022-06-28 at 10 43 43 AM" src="https://user-images.githubusercontent.com/47399887/176248323-9a6dfeef-217b-4906-bfd2-954e22bd7573.png">
 
+### Future Work
+To continue this project, we would want to train the VGG for more epochs, as well as gather more data to balance our dataset. I think doing both of these things as next steps would make the model perform significantly better. 
+
 
 
