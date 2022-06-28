@@ -26,3 +26,8 @@ The code for the pre-processing, downloading images, and model creation can be f
 
 
 ### Results
+As stated above we only got a validation accuracy of 24%. The model did pretty well at predicting the genre for albums that belonged to the most popular genre (Dance & Electronic). We had a very imbalanced dataset. We had too many observations with the Dance & Electronic label, for this to perform better we would need to balance our dataset. We also did not have the computing power to effectively train the VGG. Here is an example of the model correctly predicting Dance & Electronic: 
+<img width="341" alt="Screen Shot 2022-06-28 at 10 43 43 AM" src="https://user-images.githubusercontent.com/47399887/176248323-9a6dfeef-217b-4906-bfd2-954e22bd7573.png">
+
+
+
