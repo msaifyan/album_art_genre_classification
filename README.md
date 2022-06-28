@@ -1,4 +1,4 @@
-# album_art_genre_classification
+# Album Art Genre Classification
 
 ### Introduction
 Music is a major part of our daily lives and culture, and album art sets the tone for songs and merchandise. We wanted to see if we could predict an album's genre using album cover art. We wanted to do this because it has not been researched much. Album genre classification has mostly been done in research with audio, album name, and lyrics. Very few people have researched if you can predict the album genre based on album art alone. We were inspired to do this work when we noticed that many large artists such as Lady Gaga and Taylor Swift have progressions in album art corresponding to a shift in music genre.
